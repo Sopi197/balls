@@ -1,0 +1,14 @@
+
+
+body{
+    background: #5c2f3c;
+}
+
+#ball{
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin: 100px auto 0 auto;
+    background: #020;
+    border-radius: 10%;
+}
